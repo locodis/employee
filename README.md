@@ -1,5 +1,5 @@
 #personal card design
 
-![emp](https://user-images.githubusercontent.com/121372281/212499834-d7214651-54cb-4cd9-b0a8-d8cd5690b8e8.gif)
 
 
+![emp](https://user-images.githubusercontent.com/121372281/213734201-a1b5ed58-257c-4b75-ad92-4d08feb5e72f.gif)
